@@ -90,7 +90,7 @@ def convert():
                                  array_temp1[i * 5 + 3][j * 5 + 3] + array_temp1[i * 5 + 3][j * 5 + 4] +
                                  array_temp1[i * 5 + 4][j * 5] + array_temp1[i * 5 + 4][j * 5 + 1] +
                                  array_temp1[i * 5 + 4][j * 5 + 2] + array_temp1[i * 5 + 4][j * 5 + 3] +
-                                 array_temp1[i * 5 + 4][j * 5 + 4]) / 15)
+                                 array_temp1[i * 5 + 4][j * 5 + 4]) / 25)
     print(te_pixels)
     return te_pixels
 
